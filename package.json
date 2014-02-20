@@ -1,15 +1,8 @@
 {
-    "name": "claim",
-    "version": "0.0.1",
-    "author": "Manuel Stofer <manuel@takimata.ch>",
-    "license": "MIT",
-    "devDependencies": {
-        "mocha": "1.9.0",
-        "chai": "*",
-        "component": "*",
-        "mocha-phantomjs": "*"
-    },
-    "scripts": {
-        "test": "make test"
-    }
+  "name": "manuelstofer-claim",
+  "description": "Util to check if dom elements belong to a view or sub view",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
